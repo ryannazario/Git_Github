@@ -1,3 +1,5 @@
 ls - lista de arquivos
 cd - move entre diretórios
 pwd - mostra o percurso de onde está
+cat - exibe conteúdo do arquivo
+rm - remove arquivo do diretório
