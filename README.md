@@ -1,2 +1,2 @@
-\# Esse é um curso de Git \& GitHub
+\## Esse é um curso de Git \& GitHub
 
