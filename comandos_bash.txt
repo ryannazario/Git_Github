@@ -4,3 +4,5 @@ pwd - mostra o percurso de onde está
 cat - exibe conteúdo do arquivo
 rm - remove arquivo do diretório
 rm -rf - remove de forma recursiva e forçada
+
+olha-me
