@@ -6,3 +6,4 @@ rm - remove arquivo do diretório
 rm -rf - remove de forma recursiva e forçada
 
 olha-me
+Teste
