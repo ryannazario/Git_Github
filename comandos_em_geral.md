@@ -1,4 +1,4 @@
-# Comandos Git aprendidos
+# Comandos Git aprendidos no Curso do DataCamp - GitHub Foundations
 
 ## 1. Terminal e criação de repositório
 
@@ -7,8 +7,6 @@
 | `pwd` | Mostra em qual pasta (diretório) você está agora. |
 | `ls` | Lista os arquivos e pastas do diretório atual. |
 | `cd archive` | Entra na pasta "archive". |
-| `cd data` | Entra na pasta "data". |
-| `cd mental-health-workspace` | Entra na pasta "mental-health-workspace". |
 | `git --version` | Mostra a versão do Git instalada. |
 | `git init` | Transforma a pasta atual em um repositório Git. |
 | `git init mental-health-workspace` | Cria a pasta "mental-health-workspace" já como repositório Git. |
@@ -19,11 +17,8 @@
 | Comando | O que faz |
 |---|---|
 | `git add README.md` | Coloca o README.md na área de staging (prepara para o commit). |
-| `git add report.md` | Coloca o report.md na área de staging. |
 | `git add .` | Coloca todas as alterações da pasta atual na área de staging. |
 | `git commit -m "Adding a README."` | Cria um commit com o que está em staging; `-m` define a mensagem entre aspas. |
-| `git commit -m "Checkout previous version of report.md"` | Mesmo comando, só com outra mensagem (registra a volta a uma versão anterior). |
-| `git commit -m "Adding age summary statistics"` | Mesmo comando, com a mensagem descrevendo a mudança feita. |
 
 ## 3. Histórico de commits
 
