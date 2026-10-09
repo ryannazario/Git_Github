@@ -52,6 +52,7 @@ Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
  
 Fluxo de trabalho GitHub <> Local (projetos open-source)
+
 01. Fork do projeto para seu próprio github
 02. git clone <endereco do projeto fork>
 03. git checkout -b <nova_branch>
