@@ -1,10 +1,11 @@
-git init. - cria um repo git na pasta atual
+git init . - cria um repo git na pasta atual
 git status - mostra o status do trabalho
 git add nome_arquivo - adiciona arquivo pra ser commitado
 git commit -m "msg" - faz commit do que estava para ser commitado
 git log - mostra todo histórico de commit
 
-## FLUXO DE TRABALHO DA ANA
+
+## FLUXO DE TRABALHO REAL
 
 1. criar um diretório (pasta) do projeto;
 2. iniciar o git dentro do diretório criado (git init .);
@@ -15,3 +16,5 @@ git log - mostra todo histórico de commit
 7. git commit -m "mensagem" (isso dá commit sem abrir o editor de texto);
 8. git status;
 9. volta para o passo 3.
+
+git push origin main - 
